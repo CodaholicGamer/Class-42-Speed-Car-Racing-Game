@@ -1,1 +1,2 @@
-# Class-42-Speed-Car-Racing-Game
+# C42RV_SpeedRacer_TeacherActivity
+Teacher Activity
